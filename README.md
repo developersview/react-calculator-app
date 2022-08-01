@@ -11,6 +11,6 @@
 ![image](https://github.com/developersview/react-calculator-app/blob/master/images/iphone.png) 
 
 ### View on iPad:
-![image](https://github.com/developersview/react-calculator-app/blob/master/images/iphone.png) 
+![image](https://github.com/developersview/react-calculator-app/blob/master/images/ipad.png) 
 
 
